@@ -1,0 +1,21 @@
+1- Si.
+2- No, porque a los usuarios locales no se les puede poner usuarios moviles.
+3- En el cliente se guarda en la carpeta de los usuarios y luego cuando se cierra sesión la carpta del usuario se mueve al servidor en la carpta asignada para los usarios moviles.
+4- El nombre de usuario.
+5- La RAM virtual.
+6- Si.
+7- En un disco aparte.
+8- Los administradores del dominio.
+9- El espacio asignado para ese usuario, en caso de no tener espacio asignado al usuario, se le aplicara el tamaño maximo de la unidad
+10- Saldra un evento en el visor de eventos o en la administración de la cuota.
+11- 1MB en total.
+12- Dando clic derecho en la barra de tareas y abrir el administrador de tareas, o control + shift + esc, o control + alt + supr y abrir el administrador de tareas.
+13- Abriendo la ventana de servicios y pinchamos en el que nosotros queramos detener y lo detenemos.
+14- No, porque se colapsaria el S.O.
+15- A que necesitas mas pribilegios o que ese servicio es del system y no se puede detener.
+16- En otro disco que no sea el del S.O. y en un DVD.
+17- Para saber cuando ha sido hecha la copia.
+18- En proncipio si, porque es un sistema identico.
+19- Si, porque así se hace el mantenimiento automaticamente y está listo cuendo se valla a usar.
+20- Si
+21- Si
